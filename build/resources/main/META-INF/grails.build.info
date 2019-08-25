@@ -1,0 +1,6 @@
+#Thu, 22 Aug 2019 15:45:04 -0300
+
+info.app.version=0.1
+info.app.name=com.mercadolibre.itacademy.productosapi
+grails.env=development
+info.app.grailsVersion=3.3.9

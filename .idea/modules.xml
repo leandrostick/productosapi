@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.mercadolibre.itacademy.productosapi.iml" filepath="$PROJECT_DIR$/com.mercadolibre.itacademy.productosapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mercadolibre.itacademy.productosapi_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mercadolibre.itacademy.productosapi_integrationTest.iml" group="com.mercadolibre.itacademy.productosapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mercadolibre.itacademy.productosapi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mercadolibre.itacademy.productosapi_main.iml" group="com.mercadolibre.itacademy.productosapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mercadolibre.itacademy.productosapi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mercadolibre.itacademy.productosapi_test.iml" group="com.mercadolibre.itacademy.productosapi" />
+    </modules>
+  </component>
+</project>
